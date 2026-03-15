@@ -19,4 +19,4 @@ The dashboard provides insights into customer behavior, sales trends, order stat
 - 92% of orders are successfully delivered.
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-03-15 144255.png)
